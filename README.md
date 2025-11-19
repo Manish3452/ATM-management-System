@@ -1,2 +1,2 @@
-#MAnish3452
+#Manish3452
 "Hi, I'm Manish — a B.Tech student &amp; Developer."
